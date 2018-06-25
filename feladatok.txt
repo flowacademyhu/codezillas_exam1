@@ -3,7 +3,7 @@ Sziasztok!
 A feladatok megoldásához nem használhatjátok az Internetet, ám az offline leírásokat igen.
 Kérlek titeket, első lépéskénk forkoljátok ezt a repository-t és olvassátok el az összes feladatot.
 Az írásban adandó válaszokat ezen feladat forkolt verziójában adjátok meg!
-Az első négy részből minimum 3 pontot el kell érni az 5-ből, az utolsóból pedig minimum 20-at.
+Az első négy részből minimum 3 pontot el kell érni az 5-ből, az utolsóból pedig minimum 15-at.
 Az utolsó feladatsorban a megoldások külön fájlokba kerüljenek, pl. az 5.3-es feladat a 3.js -ben.
 Jó munkát!
 
