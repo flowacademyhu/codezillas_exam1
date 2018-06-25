@@ -1,0 +1,44 @@
+Sziasztok!
+Íme a Codezillas első megmérettetése, az I. szakazzáró feladatsor.
+A feladatok megoldásához nem használhatjátok az Internetet, ám az offline leírásokat igen.
+Kérlek titeket, első lépéskénk forkoljátok ezt a repository-t és olvassátok el az összes feladatot.
+Az írásban adandó válaszokat ezen feladat forkolt verziójában adjátok meg!
+Az első négy részből minimum 3 pontot el kell érni az 5-ből, az utolsóból pedig minimum 20-at.
+Az utolsó feladatsorban a megoldások külön fájlokba kerüljenek, pl. az 5.3-es feladat a 3.js -ben.
+Jó munkát!
+
+1. GIT (5p)
+1.1. Ebben a vizsgában minden részfeladatot commit-olj külön! (3p)
+1.2. Írd le, mi az a git stash! (1p)
+1.3. Ha használtad a git add parancsot, de mégsem szeretnél egy módosítást a commit -hoz hozzáadni,
+     mivel tudod visszavonni a műveletet? (1p)
+
+2. HTML/CSS (5p)
+2.1. Hozd létre HTML segítségével a névjegykártyádat! (2p)
+2.2. Használj pozicionálást benne (float, flexbox)! (2p)
+2.3. Használj áttetsző div-eket! (rgba) (1p)
+
+3. Linux (5p)
+3.1. Írj egy bash script-et, amiben egy exam1 nevű függvény a következőket csinálja: (1p)
+3.2. Létrehoz egy mappát, melyet a szkriptnek bemeneti argumentumként tudunk megadni. (1p)
+3.3. Létrehoz két fájlt, egy run.sh -t és és egy lib.so -t az adott mappában. (1p)
+3.4. Futási jogot ad mindenkinek a run.sh -ra (1p)
+3.5. Csinál egy szimbolikus link -et (symlink) a run.sh-ról go.sh néven. (1p)
+
+4. Hálózati ismeretek (5p)
+4.1. Mi a saját géped IP címe? (1p)
+4.2. Mire jó a router? (1p)
+4.3. Mi az a TCP és az UDP és mi közöttük a különbség? (1p)
+4.4. Mi az a HTTP és milyen metódusai vannak, melyik method mit csinál? (1p)
+4.5. Írj egy teljes alakú URI formátumot! (1p)
+
+5. Programozási alapok (40p)
+5.1. Írj példát az összes általad írt adattípusra és kommentezd fölé a nevét. (3p)
+5.2. Írd le az összetett adattípusok változóból válotozóba másolásának különlegességét a Js esetében (3p)
+5.3. Írd le az összeadás tételét (3p)
+5.4. Írd le a megszámlálás tételét (3p)
+5.5. írj függvényt, mely a switch statement-et használja a bemeneti argumentumának feldolgozására (3p)
+5.6. Írd le az unio tételét vagy egyéb algoritmust, mely két tömb unióját számolja ki. (5p)
+5.7. Írj egy modult, mely négy függvényt exportál: osszeadas, kivonas, osztas, szorzas. A függvények működjenek is. (5p)
+5.8. Írd meg a fibonacci tételt rekurzió segítségével (a 100. elemnél lépjen ki) (5p)
+5.9. Írj programot, mely az általad bevitt kulcs-érték párokat, melynek számossága dinamikus, json fájlba írja ki. (10p)
