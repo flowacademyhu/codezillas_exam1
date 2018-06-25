@@ -36,9 +36,26 @@ git rm 'fájlnév'
 
 4. Hálózati ismeretek (5p)
 4.1. Mi a saját géped IP címe? (1p)
+
+192.168.5.36
+
 4.2. Mire jó a router? (1p)
+
+Alhálózat/helyi hálózat létrehozására. 
+
 4.3. Mi az a TCP és az UDP és mi közöttük a különbség? (1p)
+
+2 különböző csomagküldési protokoll. Az UDP-s csomagküldés ugyan lassabb, de ellenörzi a küldött adatok megérkezését, és ha hiányos akkor újra küldi a csomagot. Ezzel szemben a TCP gyorsabb, de lehetséges a csomag- és ezzel együtt az adatvesztés. Lásd, pl. a streamelt adatoknál a recsegő hang, pl. skype,...
+
 4.4. Mi az a HTTP és milyen metódusai vannak, melyik method mit csinál? (1p)
+
+Hypertext Transfer Protocol. Egyfajta adatküldési protokoll, ahol szabályozva vannak a küldött adatok/dokumentumok formája.
+Metódusai:
+     GET
+     POST
+     UPDATE
+     DELETE
+
 4.5. Írj egy teljes alakú URI formátumot! (1p)
 
 5. Programozási alapok (40p)
