@@ -9,9 +9,18 @@ Jó munkát!
 
 1. GIT (5p)
 1.1. Ebben a vizsgában minden részfeladatot commit-olj külön! (3p)
+
+OK!
+
 1.2. Írd le, mi az a git stash! (1p)
+
+A legutóbbi pull után a saját branchen történt változásokat lehet lementeni a git stash-el locálba, ha azt akarjuk, hogy merge conflict után a felülírt fájlokat visszaállíthassuk a saját stash-elt verziónkra.
+
 1.3. Ha használtad a git add parancsot, de mégsem szeretnél egy módosítást a commit -hoz hozzáadni,
      mivel tudod visszavonni a műveletet? (1p)
+     
+git rm 'fájlnév'
+
 
 2. HTML/CSS (5p)
 2.1. Hozd létre HTML segítségével a névjegykártyádat! (2p)
